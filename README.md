@@ -4,7 +4,7 @@
 
 * **IA & Data:** Python, Computer Vision (OpenCV), PCA (Eigenfaces), LLM (LangChain - In Progress)
 
-* **Mathématiques:** Probabilités, Algèbre linéaire, Optimisation, Statistiques
+* **Mathématiques:** Probabilities, Linear Algebra, Optimization, Statistics
 
 * **Backend & Engineering:** FastAPI, Node.js(Express), WebSocket, Architecture RESTful, PostgreSQL, Prisma, Docker, Linux
 
