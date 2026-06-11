@@ -6,9 +6,11 @@
 
 * **Mathématiques:** Probabilities, Linear Algebra, Optimization, Statistics
 
+
 * **Backend & Engineering:** FastAPI, Node.js(Express), WebSocket, Architecture RESTful, PostgreSQL, Prisma, Docker, Linux
 
 * **Frontend & UX/UI:** React, TypeScript, JavaScript (ES6+), Figma (Prototypage UX/UI, User Flow)
+
 
 * **Programming Languages:** C, C++, Java
 
