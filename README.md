@@ -18,7 +18,7 @@
 
 ## Projets
 
-# 💡 Note: I am currently migrating and cleaning up my project repositories.
+## 💡 Note: I am currently migrating and cleaning up my project repositories.
 
 * **Facial Recognition:** (AI & Computer Vision) — Python, OpenCV, PCA
   Smart lock on Raspberry Pi: A door opening system powered by facial recognition (PCA). [Demo]
